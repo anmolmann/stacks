@@ -1,0 +1,6 @@
+{
+  "name": "Stacks",
+  "tagline": "A stack or LIFO",
+  "body": "\r\n***\r\n# STACKS\r\n***\r\n![](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/pix/stack.bmp)\r\n***\r\n\r\nA stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push adds an element to the collection; pop removes the last element that was added.\r\n***\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
