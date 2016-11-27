@@ -6,3 +6,4 @@ A stack or LIFO (last in, first out) is an abstract data type that serves as a c
 ## Implement stack using array
 ## Minimum element from the stack
 ## Next Greater element
+## Maximum rectangular area in a histogram
